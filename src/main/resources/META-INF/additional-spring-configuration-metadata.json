@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "famillyBank.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'famillyBank.app.jwtCookieName'"
+  },
+  {
+    "name": "famillyBank.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'famillyBank.app.jwtSecret'"
+  },
+  {
+    "name": "famillyBank.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'famillyBank.app.jwtExpirationMs'"
+  }
+]}
